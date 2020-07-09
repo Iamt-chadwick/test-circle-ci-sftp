@@ -1,5 +1,3 @@
 <?php
- echo 'Hi!';
-
- 
+ echo 'Hi, I just changed this to test deployment!';
 ?>
